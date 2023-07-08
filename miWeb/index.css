@@ -429,3 +429,12 @@ button[type="submit"]:hover {
   color: red;
   margin-top: 5px;
 }
+
+.img-about-us{
+    width: 40%;
+    height: 40%;
+}
+
+#img-learn{
+    margin-top: 25%;
+}
